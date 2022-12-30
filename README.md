@@ -23,7 +23,7 @@ Guide to Run the project ->
     
 
     Error Format
-        ```Javascript
+        
         {
             "error": true,
             "status": 503,
@@ -33,7 +33,7 @@ Guide to Run the project ->
             },
             "message": "Too many frequent requests wait for sometime"
         }
-        ```
+        
     Success Format 
         {
             "error": false,
